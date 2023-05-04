@@ -1,0 +1,5 @@
+# .gitignore
+floppies/*
+kickstarts/*
+
+.DS_Store

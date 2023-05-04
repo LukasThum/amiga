@@ -1,0 +1,15 @@
+[fs-uae]
+amiga_model = A500
+kickstart_file = ../kickstarts/kick130.rom
+floppy_drive_0 = ../floppies/chaos-strikes-back-game-v3.1.adf
+floppy_drive_1 = ../floppies/chaos-strikes-back-save-001.adf
+floppy_drive_2 = ../floppies/chaos-strikes-back-utility-v3.1.adf
+floppy_drive_speed = 800
+chip_memory = 512
+fast_memory = 0
+slow_memory = 0
+fullscreen = 1
+video_sync = 1
+video_standard = pal
+sound_output = stereo
+sound_frequency = 44100
