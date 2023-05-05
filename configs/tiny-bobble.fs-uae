@@ -1,9 +1,7 @@
 [fs-uae]
 amiga_model = A500
 kickstart_file = ../kickstarts/kick130.rom
-floppy_drive_0 = ../floppies/chaos-strikes-back-game-v3.1.adf
-floppy_drive_1 = ../floppies/chaos-strikes-back-save-001.adf
-floppy_drive_2 = ../floppies/chaos-strikes-back-utility-v3.1.adf
+floppy_drive_0 = ../floppies/tiny-bobble.adf
 floppy_drive_speed = 0
 floppy_drive_volume_empty = 0
 floppy_drive_volume = 0

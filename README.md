@@ -39,5 +39,9 @@ The project is organized into the following directory structure:
 4. Launch FS-UAE from the command line with the desired configuration file:
 
 ```bash
-fs-uae /path/to/config_file.fs-uae
+fs-uae configs/chaos-strikes-back.fs-uae
+fs-uae configs/dungeon-master.fs-uae
+fs-uae configs/sir-fred.fs-uae
+fs-uae configs/tiny-bobble.fs-uae
+
 ```
